@@ -1,0 +1,31 @@
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.FormBeginner.resources
+C:\Users\OSMAN ÖMER\source\repos\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.FormExpert.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.FormBeginner.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.FormExpert.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.FormIntermadiate.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\Interop.WMPLib.dll
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\Interop.WMPLib.dll
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.ResolveComReference.cache
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\20190315MayinTarlasiOdevi\MayinTarlasi\obj\Debug\MayinTarlasi.FormMuzikCal.resources
